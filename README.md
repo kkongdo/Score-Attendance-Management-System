@@ -2,7 +2,7 @@
 - ✏️ 주제 : 학생과 교수가 사용하기 편리한 **성적 및 출결 관리 시스템**
 - 📆 개발 기간 : 2023/08/03 - 2023/08/04
 - 👨‍💻 개발 인원 : 4명
-- 🔥 특이사항 : Java Console 사용, MVC 패턴 및 Oracle DB 연동
+- 🔥 특이사항 : Java Console, JDBC 사용 및 MVC 패턴 적용, Oracle DB 연동
 
 ## 📚 Tech Stack
 #### Backend
