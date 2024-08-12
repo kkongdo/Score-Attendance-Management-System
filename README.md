@@ -4,6 +4,10 @@
 - 👨‍💻 개발 인원 : 4명
 - 🔥 특이사항 : Java Console, JDBC 사용 및 MVC 패턴 적용, Oracle DB 연동
 
+## 담당 기능
+- 성적 조회, 등록, 수정 기능
+- 과제 등록
+
 ## 📚 Tech Stack
 #### Backend
 <p>
